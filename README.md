@@ -42,3 +42,4 @@ randomidiot2887/quiz-buzzur-round-program-arduino is licensed under the
 [**GNU Affero General Public License v3.0**](https://github.com/randomidiot2887/quiz-buzzur-round-program-arduino/blob/main/LICENSE)
 > This means while you can reuse the code, You have to make sure to make the code avalable to the users in an open manner and should consider contributing back to this repo
 
+.
