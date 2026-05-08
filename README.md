@@ -16,7 +16,10 @@ An arduino based project which is planned to be used for the buzzer round of qui
 - 1 Buzzur
 
 ## How to upload to an arduino
-#### With Arduino IDE
+#### With Arduino IDE 
+> This method is currently broken and is not reccomended due to the multi file structure of the codebase
+
+
 - Download and install the [Arduino IDE](https://www.arduino.cc/en/software_) if not already installed
 - Create a new project
 - go to [the C++ source code](https://github.com/randomidiot2887/quiz-buzzur-round-program-arduino/blob/main/src/main.cpp) and copy the contents of the file
